@@ -1,3 +1,3 @@
 {
-    "origins": [ "https://www.adenin.com", "http://127.0.0.1:57598" ]
+    "origins": [ "https://www.adenin.com", "http://127.0.0.1:57598", "http://localhost:4000", "https://adenin-dev.netlify.com" ]
   }
